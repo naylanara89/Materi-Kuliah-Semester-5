@@ -38,3 +38,13 @@ Mahasiswa mampu :
 - npx expo start --web
 
 ![alt text](image-3.png)
+
+4. Tugas Praktikum Pemrograman Mobile (React Native)
+- Menambagkan CV sederhana dengan React Native
+- Nama Lengkap
+- NIM
+- Asal Sekolah
+- Cita-cita
+- Rencana mencapai cita-cita
+
+![alt text](image-4.png)
